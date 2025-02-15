@@ -1,3 +1,3 @@
 # Jagdish-Demo
 This is my first repository
-Author-Jagdish
+Author-Jagdish("scholar")
